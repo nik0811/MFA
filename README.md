@@ -1,5 +1,5 @@
 # MFA
-Force User to Activate MFA on AWS.
+Json Policy To Force User to Activate MFA on AWS.
 
 ```
 {
